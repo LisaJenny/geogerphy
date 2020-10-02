@@ -13,7 +13,7 @@ public class Map {
 		System.out.println("forest"+in.nextLine());
 		System.out.println("plain"+in.nextLine());
 		System.out.println("tree"+in.nextLine());
-		System.out.println("lake"+in.nectLine());
+		System.out.println("lake"+in.nextLine());
 		System.out.println("river"+in.nextLine());
 		System.out.println("biome"+in.nextLine());
 		System.out.println("sky high"+in.nextLine());
