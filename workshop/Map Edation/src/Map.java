@@ -15,6 +15,7 @@ public class Map {
 		System.out.println("tree"+in.nextLine());
 		System.out.println("lake"+in.nectLine());
 		System.out.println("river"+in.nextLine());
+		System.out.println("biome"+in.nextLine());
 	}
 
 }
