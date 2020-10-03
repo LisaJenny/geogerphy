@@ -28,7 +28,6 @@ public class Map {
 		//Map Loading
 		System.out.println("seed"+in.nextLine());
 		System.out.println("Geography loading");
-                System.out.println("Mem loading")
 	}
 
 }
